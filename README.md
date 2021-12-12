@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Dave McCollough](https://davemccollough.com).
+### Hi there 👋  I'm [Dave McCollough](https://davemccollough.com).
 
 <!--
 **dave-mccollough/dave-mccollough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
