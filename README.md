@@ -1,4 +1,28 @@
-### Hi there [https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif]  I'm [Dave McCollough](https://davemccollough.com).
+### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
+---
+I'm a Solution Architect and Developer interested in Cloud-Native and Cross-Platform technologies, Cybersecurity and Big Data.
+
+***
+### Tools and Technologies 
+---
+These are some of the tools and technologies that I currently use:
+
+#### Cloud
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png">
+|--|--|
+#### Languages 
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="C#" title="c#" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+|--|--|--|
+#### Libraries and Frameworks
+<img title="React Native" alt="React Native" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />|<img alt="DotNet" title="DotNet" width="40px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">|
+|--|--|
+#### Tools
+<img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://camo.githubusercontent.com/8309f96251a086c056e0d7262b7eb66b2da6bdc35ed439b269fd907aa516095a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652d312e737667" />|<img alt="Visual Studio" title="Visual Studio" width="40px" src="https://camo.githubusercontent.com/6ef5b9ab48e506b686160b72ef7b122590d4b0f9866ba2287ca0e9d6959839f3/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d323031332e737667">|
+|--|--|
+
+These are the tools and technologies that I am currently learning:
+<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />|<img alt="GO" title="GO" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">|<img alt="Kubernetes" title="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
+|--|--|--|
 
 <!--
 **dave-mccollough/dave-mccollough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
