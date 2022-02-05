@@ -5,7 +5,7 @@ I'm a Tecnical Leader and Software Developer interested in Cloud-Native and Mobi
 ***
 ### Tools and Technologies 
 ---
-These are some of the tools and technologies that I currently use:
+These are some of the tools and technologies that I currently use or have used:
 
 #### Cloud
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png">
