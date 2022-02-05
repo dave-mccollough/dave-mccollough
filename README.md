@@ -1,6 +1,6 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-I'm a Solution Architect and Developer interested in Cloud-Native and Mobile technologies.
+I'm a Tecnical Leader and Software Developer interested in Cloud-Native and Mobile technologies.
 
 ***
 ### Tools and Technologies 
