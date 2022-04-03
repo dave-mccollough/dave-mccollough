@@ -1,6 +1,6 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-I'm a Technical Leader and Software Developer interested in Cloud, Information Security, Cross-Platform Mobile, and Emerging Technologies.
+I'm a Technical Leader and Software Developer interested in Cloud, Information Security, Mobile, and Emerging Technologies.
 
 ***
 ### Tools and Technologies 
