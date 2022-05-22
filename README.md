@@ -5,7 +5,7 @@ I'm a Technology Leader and Software Developer interested in Cloud Native Techno
 ***
 ### Tools and Technologies 
 ---
-These are some of the tools and technologies that I currently use or have used:
+Tools and technologies that I currently use or have used:
 
 #### Cloud
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png">|<img title="Microsoft 365" alt="Microsoft 365" width="40px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4">
@@ -21,7 +21,11 @@ These are some of the tools and technologies that I currently use or have used:
 <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://camo.githubusercontent.com/8309f96251a086c056e0d7262b7eb66b2da6bdc35ed439b269fd907aa516095a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652d312e737667" />|<img alt="Visual Studio" title="Visual Studio" width="40px" src="https://camo.githubusercontent.com/6ef5b9ab48e506b686160b72ef7b122590d4b0f9866ba2287ca0e9d6959839f3/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d323031332e737667">|
 |--|--|
 
+Tools and technologies that I am currently learning:
 
+<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="![image](https://user-images.githubusercontent.com/19842520/169676273-67870c0e-9951-4756-b5f9-f78a07cbf5d6.png)
+">|<img title="Go" alt="Go" width="40px" src="https://user-images.githubusercontent.com/19842520/169676292-adf83770-e60d-47fd-9bca-2a0eeb8ec715.png">
+|--|--|--|
 
 <!--
 **dave-mccollough/dave-mccollough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
