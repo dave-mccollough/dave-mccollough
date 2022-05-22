@@ -1,6 +1,6 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-I'm a Technology Leader and Software Developer interested in Cloud Native Technologies, Software Development, AI, Data, IoT, and Blockchain.
+I'm a Technology Leader and Software Developer interested in Cloud Native Technologies, Software Development, and Emerging Technologies.
 
 ***
 ### Tools and Technologies 
