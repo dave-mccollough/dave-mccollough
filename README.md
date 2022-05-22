@@ -23,7 +23,7 @@ Tools and technologies that I currently use or have used:
 
 Tools and technologies that I am currently learning:
 
-<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="![image](https://user-images.githubusercontent.com/19842520/169676273-67870c0e-9951-4756-b5f9-f78a07cbf5d6.png)
+<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://user-images.githubusercontent.com/19842520/169676273-67870c0e-9951-4756-b5f9-f78a07cbf5d6.png
 ">|<img title="Go" alt="Go" width="40px" src="https://user-images.githubusercontent.com/19842520/169676292-adf83770-e60d-47fd-9bca-2a0eeb8ec715.png">
 |--|--|--|
 
