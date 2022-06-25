@@ -1,6 +1,6 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-I'm a Technical Consultant and Cross-Platform Developer working with Microsoft Technologies.  I'm also interested in AI, Data, IoT, and Blockchain.
+I'm a Technical Consultant working in Information Security, Cloud, and Web and Mobile Development.  I'm also interested in AI, Data, IoT, and Blockchain.
 
 ***
 ### Tools and Technologies 
@@ -19,6 +19,10 @@ Tools and technologies that I currently use or have used:
 |--|--|
 #### Tools
 <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://camo.githubusercontent.com/8309f96251a086c056e0d7262b7eb66b2da6bdc35ed439b269fd907aa516095a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652d312e737667" />|<img alt="Visual Studio" title="Visual Studio" width="40px" src="https://camo.githubusercontent.com/6ef5b9ab48e506b686160b72ef7b122590d4b0f9866ba2287ca0e9d6959839f3/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d323031332e737667">|
+|--|--|
+
+#### Technologies I'm Learning
+<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|<img alt="Solana" title="Solana" width="40px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4">|
 |--|--|
 
 <!--
