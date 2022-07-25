@@ -1,6 +1,8 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-I'm a consultant working in cloud and mobile development, including Azure, Android, and iOS.  I'm interested in cross-platform technologies including Flutter and React Native.  I'm currently learning Augmented Reality and Blockchain.
+I'm a consultant working in cloud and mobile development, including Azure, Android, and iOS.  
+I'm interested in cross-platform technologies including Flutter and React Native.  
+I'm currently learning Augmented Reality and Blockchain.
 
 ***
 ### Tools and Technologies 
