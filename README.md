@@ -2,7 +2,7 @@
 ---
 - 🔧  I'm a consultant working in cloud and mobile development, including Azure, Android, and iOS.  
 - 💡  I'm interested in cross-platform technologies including Flutter and React Native.  
-- 📖 I'm currently learning Augmented Reality and Blockchain.
+- 📖  Currently learning Augmented Reality and Blockchain.
 
 ***
 ### Tools and Technologies 
