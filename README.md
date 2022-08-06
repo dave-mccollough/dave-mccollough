@@ -2,7 +2,7 @@
 ---
 - 🔧  I'm a consultant working in cloud and mobile development, including Azure, .NET, and React Native.  
 - 💡  I'm interested in Interested in Machine Learning and Augmented Reality.  
-- 📖  Currently learning Swift/SwiftUI.
+- 📖  Currently learning Swift and SwiftUI.
 
 ***
 ### Tools and Technologies 
