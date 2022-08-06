@@ -1,8 +1,8 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-- 🔧  I'm a consultant working in cloud and mobile development, including Azure, Android, and iOS.  
-- 💡  I'm interested in cross-platform technologies including Flutter and React Native.  
-- 📖  Currently learning Augmented Reality and Blockchain.
+- 🔧  I'm a consultant working in cloud and mobile development, including Azure, .NET, and React Native.  
+- 💡  I'm interested in Interested in Machine Learning and Augmented Reality.  
+- 📖  Currently learning Swift/SwiftUI.
 
 ***
 ### Tools and Technologies 
@@ -13,8 +13,8 @@ Tools and technologies that I currently use or have used:
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png">|<img title="Microsoft 365" alt="Microsoft 365" width="40px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4">
 |--|--|--|
 #### Languages 
-<img alt="C#" title="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">|<img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Kotlin" title="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Swift" title="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">|
-|--|--|--|--|--|
+<img alt="C#" title="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">|<img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Kotlin" title="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|
+|--|--|--|--|
 
 #### Libraries and Frameworks
 <img title="React Native" alt="React Native" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />|<img alt="DotNet" title="DotNet" width="40px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">|
@@ -24,8 +24,8 @@ Tools and technologies that I currently use or have used:
 |--|--|
 
 #### Languages and Technologies I'm Learning
-<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|<img alt="Solana" title="Solana" width="40px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />|
-|--|--|--|
+<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|<img alt="Solana" title="Solana" width="40px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />|<img alt="Swift" title="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">|
+|--|--|--|--|
 
 
 
