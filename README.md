@@ -1,7 +1,7 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-- 🔧  I'm a consultant working in cloud and mobile development, including Azure, .NET, and React Native.  
-- 💡  I'm interested in Interested in Machine Learning and Augmented Reality.  
+- 🔧  I'm a consultant working in cloud and mobile development, including Azure, .NET, and Mobile Technologies.  
+- 💡  I'm interested Machine Learning, Augmented Reality, IoT and Blockchain Technologies  
 - 📖  Currently learning Swift and SwiftUI.
 
 ***
