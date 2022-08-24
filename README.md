@@ -2,7 +2,7 @@
 ---
 - 🔧  Consultant and Developer currently working with Azure, .NET, and Mobile Technologies.  
 - 💡  I'm interested Machine Learning, Augmented Reality, IoT and Blockchain Technologies  
-- 📖  Currently learning Swift and SwiftUI.
+- 📖  Currently learning Flutter.
 
 ***
 ### Tools and Technologies 
