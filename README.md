@@ -1,8 +1,8 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
 - 🔧  Consultant and Developer currently working with Azure, .NET, and Mobile Technologies.  
-- 💡  I'm interested Machine Learning, Augmented Reality, IoT and Blockchain Technologies  
-- 📖  Currently learning Flutter.
+- 💡  Interested in Cloud Native, Security, and Blockchain.
+- 📖  Currently studying for the AWS Solution Architect exam.
 
 ***
 ### Tools and Technologies 
@@ -24,8 +24,9 @@ Tools and technologies that I currently use or have used:
 |--|--|
 
 #### Languages and Technologies I'm Learning
-<img alt="Flutter" title="Flutter" width="40px" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4">|<img alt="Blozor" title="Blazor" width="40px" src="https://camo.githubusercontent.com/bfc4d7998ef0a1ee4800f416641ea5767049d10011def38e8944a7fe8d468904/68747470733a2f2f61647269656e746f727269732e6769746875622e696f2f777777726f6f742f696d616765732f626c617a6f722f6c6f676f2d626c617a6f722e706e67">|
-|--|--|
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png">|<img title="Go" alt="Go" width="40px" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">|
+|--|--|--|
+
 <!--
 <img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|<img alt="Solana" title="Solana" width="40px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />|<img alt="Flutter" title="Flutter" width="40px" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4">|<img alt="Blozor" title="Blazor" width="40px" src="https://camo.githubusercontent.com/bfc4d7998ef0a1ee4800f416641ea5767049d10011def38e8944a7fe8d468904/68747470733a2f2f61647269656e746f727269732e6769746875622e696f2f777777726f6f742f696d616765732f626c617a6f722f6c6f676f2d626c617a6f722e706e67">|
 |--|--|--|--|--|
