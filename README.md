@@ -24,7 +24,7 @@ Tools and technologies that I currently use or have used:
 |--|--|
 
 #### Languages and Technologies I'm Learning
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">|<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"|<img alt="Blozor" title="Blazor" width="40px" src="https://camo.githubusercontent.com/bfc4d7998ef0a1ee4800f416641ea5767049d10011def38e8944a7fe8d468904/68747470733a2f2f61647269656e746f727269732e6769746875622e696f2f777777726f6f742f696d616765732f626c617a6f722f6c6f676f2d626c617a6f722e706e67">|<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|
 |--|--|--|--|
 
 <!--
