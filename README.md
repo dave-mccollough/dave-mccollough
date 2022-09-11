@@ -1,7 +1,7 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
 - 🔧  Consultant and Developer currently working with Azure, .NET, and Mobile Technologies.  
-- 💡  Interested in Cloud Native, Security, and Blockchain.
+- 💡  Interested in Cloud Native, Data, and Security.
 - 📖  Currently studying for the Azure AZ-104 Exam.
 
 ***
