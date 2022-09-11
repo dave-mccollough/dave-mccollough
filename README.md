@@ -2,7 +2,7 @@
 ---
 - 🔧  Consultant and Developer currently working with Azure, .NET, and Mobile Technologies.  
 - 💡  Interested in Cloud Native, Security, and Blockchain.
-- 📖  Currently studying for the AWS Solution Architect exam.
+- 📖  Currently studying for the Azure AZ-104 Exam.
 
 ***
 ### Tools and Technologies 
