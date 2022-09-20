@@ -1,7 +1,7 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-- 🔧  Consultant and Developer currently working with Azure, .NET, and Mobile Technologies.  
-- 💡  Interested in Cloud Native, Data, and Security.
+- 🔧  Consultant and Developer working with Microsoft Technologies.  
+- 💡  Interested in Cloud Native, Information Security, Data, and Blockchain.
 - 📖  Currently studying for the SC-200: Microsoft Security Operations Analyst Certification
 
 ***
