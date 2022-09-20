@@ -2,7 +2,7 @@
 ---
 - 🔧  Consultant and Developer currently working with Azure, .NET, and Mobile Technologies.  
 - 💡  Interested in Cloud Native, Data, and Security.
-- 📖  Currently studying for the Azure AZ-104 Exam.
+- 📖  Currently studying for the SC-200: Microsoft Security Operations Analyst Certification
 
 ***
 ### Tools and Technologies 
