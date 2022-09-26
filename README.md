@@ -2,7 +2,7 @@
 ---
 - 🔧  Consultant and Developer working with Microsoft Technologies.  
 - 💡  Interested in Cloud Native, Information Security, Data, and Blockchain.
-- 📖  Currently studying for the AZ-400 Exam: Designing and Implementing Microsoft DevOps Solutions
+- 📖  Currently learning Kubernetes
 
 ***
 ### Tools and Technologies 
