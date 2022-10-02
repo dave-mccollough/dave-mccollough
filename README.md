@@ -2,7 +2,7 @@
 ---
 - 🔧  Consultant and Developer working with Cloud and Cross-Platform Technologies.  
 - 💡  Interested in Cloud Native, Data, IoT, and Security.
-- 📖  Currently studying for AWS Solution Architect Exam
+- 📖  Currently studying for the AWS Solution Architect Associate Exam
 
 ***
 ### Tools and Technologies 
