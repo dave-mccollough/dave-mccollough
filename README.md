@@ -1,8 +1,8 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-- 🔧  Consultant and Developer working with Microsoft Technologies.  
-- 💡  Interested in Cloud Native, Information Security, Data, and Blockchain.
-- 📖  Currently learning Kubernetes
+- 🔧  Consultant and Developer working with Cloud and Cross-Platform Technologies.  
+- 💡  Interested in Cloud Native, Data, IoT, and Security.
+- 📖  Currently studying for AWS Solution Architect Exam
 
 ***
 ### Tools and Technologies 
