@@ -24,15 +24,14 @@ Tools and technologies that I currently use or have used:
 |--|--|
 
 #### Languages and Technologies I'm Learning
-<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png">|<img alt="Go" title="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">|<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|
-|--|--|--|
-
-<!--
-<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|<img alt="Solana" title="Solana" width="40px" src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />|<img alt="Flutter" title="Flutter" width="40px" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4">|<img alt="Blozor" title="Blazor" width="40px" src="https://camo.githubusercontent.com/bfc4d7998ef0a1ee4800f416641ea5767049d10011def38e8944a7fe8d468904/68747470733a2f2f61647269656e746f727269732e6769746875622e696f2f777777726f6f742f696d616765732f626c617a6f722f6c6f676f2d626c617a6f722e706e67">|
-|--|--|--|--|--|
+<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png">|<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">|<img alt="Go" title="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">|<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|
+|--|--|--|--|
 
 
-<!--
+
+
+
+
 **dave-mccollough/dave-mccollough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
