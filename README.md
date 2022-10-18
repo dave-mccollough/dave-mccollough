@@ -1,9 +1,8 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
 - 🔧  Consultant working in the Microsoft Cloud
-- 💡  Interested in Cloud, Data, Security, and Emerging Technologies
-- 📖  Currently studying for the Microsoft Information Protection Administrator (SC-400) Exam
-
+- 💡  Interested in Cloud, Data, Security, and Blockchain
+- 📖  Currently learning Data Engineering on Azure and Blockchain
 ***
 ### Tools and Technologies 
 ---
