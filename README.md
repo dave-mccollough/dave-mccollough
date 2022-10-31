@@ -1,8 +1,8 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-- 🔧  Consultant working in the Microsoft Cloud
-- 💡  Interested in Cloud, Data, Security, and Blockchain
-- 📖  Currently studying for Azure AI-102: Designing and Implementing a Microsoft Azure AI Solution 
+- 🔧   Consultant working with Azure, .NET, and React (Native)
+- 💡   Interested in AI, Data, and Blockchain
+- 📖   Currently studying for Azure AI-102: Designing and Implementing a Microsoft Azure AI Solution 
 ***
 ### Tools and Technologies 
 ---
