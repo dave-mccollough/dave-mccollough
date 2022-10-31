@@ -2,7 +2,7 @@
 ---
 - 🔧  Consultant working in the Microsoft Cloud
 - 💡  Interested in Cloud, Data, Security, and Blockchain
-- 📖  Currently learning Data Engineering on Azure and Blockchain
+- 📖  Currently studying for Azure AI-102: Designing and Implementing a Microsoft Azure AI Solution 
 ***
 ### Tools and Technologies 
 ---
