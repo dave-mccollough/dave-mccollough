@@ -2,7 +2,7 @@
 ---
 - 🔧   Consultant working with Azure, .NET, and React (Native)
 - 💡   Interested in AI, Data, and Blockchain
-- 📖   Currently studying for the Azure AI-102: Designing and Implementing a Microsoft Azure AI Solution 
+- 📖   Currently studying for the Azure Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions
 ***
 ### Tools and Technologies 
 ---
