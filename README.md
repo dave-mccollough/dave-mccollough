@@ -1,7 +1,7 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
 - 🔧   Consultant working with Azure, .NET, and React (Native)
-- 💡   Interested in AI, Data, and Blockchain
+- 💡   Interested in Cloud Native, Data, and Blockchain
 - 📖   Currently studying for the Azure Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions
 ***
 ### Tools and Technologies 
