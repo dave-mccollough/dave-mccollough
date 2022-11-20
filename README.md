@@ -1,8 +1,7 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-- 🔧   Consultant building and securing in Azure
-- 👨‍💻   Cross-Platform Developer (.NET and React Native)
-- 📖   Currently learning WebAssembly and Blockchain Technologies
+- 🔧   Building with cloud and mobile technologies
+- 📖   Currently studying for the AWS Developer exam
 ***
 ### Tools and Technologies 
 ---
