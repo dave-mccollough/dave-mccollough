@@ -1,7 +1,7 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
 - 🔧   Building with cloud and mobile technologies
-- 📖   Currently studying for the AWS Developer exam
+- 📖   Currently learning Data and AI
 ***
 ### Tools and Technologies 
 ---
