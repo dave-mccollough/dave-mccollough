@@ -1,7 +1,7 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
 - 🔧   Building solutions with Cloud and Mobile Technologies 
-- 💻   Interested in Serverless, Blockchain, AI, and XR
+- 💻   Interested in Cross-platform mobile, Serverless and AI
 ***
 ### Tools and Technologies 
 ---
