@@ -1,8 +1,9 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
 - 🔧   Building solutions with Cloud and Mobile Technologies 
+- 🔒   Information and Cybersecurity
 - 💻   AWS, Azure, Android, iOS and React Native 
-- 📚   Currently pursuing Google UX Design Professional Certificate
+- 📚   Currently studying for Exam SC-100: Microsoft Cybersecurity Architect
 ***
 ### Tools and Technologies 
 ---
