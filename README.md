@@ -3,7 +3,7 @@
 - 🔧   Building solutions with cloud and mobile technologies 
 - 🔒   Information and Cybersecurity
 - 💻   AWS, Azure, Android, iOS and React Native 
-- 📚   Currently studying for Exam SC-100: Microsoft Cybersecurity Architect
+- 📚   Currently studying for Security+
 ***
 ### Tools and Technologies 
 ---
