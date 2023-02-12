@@ -3,7 +3,7 @@
 - 🔧   Building solutions with cloud and mobile technologies 
 - 🔒   Information and Cybersecurity
 - 💻   AWS, Azure, Android, iOS and React Native 
-- 📚   Currently studying for Security+
+- 📚   Currently studying for Exam AZ-104: Microsoft Azure Administrator
 ***
 ### Tools and Technologies 
 ---
