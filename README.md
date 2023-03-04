@@ -1,7 +1,9 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
 - 🔧   Building solutions with cloud, mobile and cross-platform technologies 
-***
+- 🧐   Interested in AI and Blockchain
+- 📚   Learning Rust and Web Assembly
+
 ### Tools and Technologies 
 ---
 Tools and technologies that I currently use or have used:
