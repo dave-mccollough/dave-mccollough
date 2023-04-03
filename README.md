@@ -1,8 +1,9 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-- 🔧   Building solutions with cloud, mobile and cross-platform technologies 
-- 🧐   Interested in AI, Data, and Blockchain Technologies
-- 📚   Learning Rust
+- 🔧   Building solutions with cloud, web, and mobile technologies 
+- 🧐   Interested in AI, Data, and Cloud Native Technologies
+- 📚   Currently learning Rust and Go
+
 
 ### Tools and Technologies 
 ---
@@ -28,6 +29,6 @@ Tools and technologies that I currently use or have used:
 |--|--|--|
 
 #### Languages and Technologies I'm Learning
-<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|
-|--|
+<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|<img title="Go" alt="Go" width="40px" src="https://user-images.githubusercontent.com/19842520/229571541-7cd884f9-f588-4a23-a172-7edc9be02b4c.png" />|
+|--|--|
 
