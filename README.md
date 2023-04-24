@@ -2,6 +2,7 @@
 ---
 - 🔧   Building solutions with Azure, .NET, and mobile technologies 
 - 🧐   Exploring AI, cloud native, and cross-platform technologies
+- 📖   Studying for Azure AZ-104 Exam
 - 📚   Learning Rust
 
 
