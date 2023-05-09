@@ -1,8 +1,7 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-- 🔧   Building solutions with Azure, .NET, and mobile technologies 
-- 🧐   Exploring AI, cloud native, and cross-platform technologies
-- 📖   Studying for Azure AZ-104 Exam
+- 🔧   Building solutions with AWS, Azure, .NET, and React Native
+- 🧐   Interested in Machine Learning, Augmented Reality, and Blockchain
 - 📚   Learning Rust
 
 
