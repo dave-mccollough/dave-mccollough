@@ -2,7 +2,7 @@
 ---
 - 🔧   Building solutions with AWS, Azure, .NET, and React Native
 - 🧐   Interested in Machine Learning, Augmented Reality, and Blockchain
-- 📚   Learning Rust
+- 📚   Learning Rust and SwiftUI
 
 
 ### Tools and Technologies 
