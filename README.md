@@ -1,8 +1,8 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
-- 🔧   Building solutions with AWS, Azure, .NET, and React Native
-- 🧐   Interested in Machine Learning, Augmented Reality, and Blockchain
-- 📚   Learning Rust 
+- 🔧   Building solutions with cloud and mobile technologies
+- 🧐   Interested in cloud and mobile development, with a focus on Azure, Android, iOS, and React Native
+- 📚   Learning SwiftUI and Jetpack Compose
 
 
 ### Tools and Technologies 
