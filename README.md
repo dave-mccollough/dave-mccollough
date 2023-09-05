@@ -1,9 +1,7 @@
 ### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> I'm [Dave McCollough](https://davemccollough.com).
 ---
 - 🔧   Building solutions with cloud and mobile technologies
-- 🧐   Interested in AI, React Native, and emerging technologies
-- 📚   Learning Rust
-
+- 🧐   Interested in Interested in AI, data and cloud native technologies
 
 ### Tools and Technologies 
 ---
