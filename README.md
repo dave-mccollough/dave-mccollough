@@ -1,4 +1,5 @@
-### Hi there, I'm [Dave McCollough](https://davemccollough.com).
+### Hi there <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> 
+### I'm [Dave McCollough](https://davemccollough.com).
 
 - 🔧   Building and securing solutions with Microsoft technologies
 - 🧐   Interested in cloud-native and cross-platform development
