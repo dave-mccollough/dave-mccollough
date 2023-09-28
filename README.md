@@ -1,4 +1,4 @@
-### Hi there <img title="Waving Hand" alt="Waving Hand" src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width="25" height="25"> 
+### Hi there!
 ### I'm [Dave McCollough](https://davemccollough.com).
 
 - 🔧   Building and securing solutions with Microsoft technologies
