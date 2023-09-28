@@ -1,7 +1,7 @@
 ### Hi there!
 ### I'm [Dave McCollough](https://davemccollough.com).
 
-- 🔧   Building and securing solutions with Microsoft technologies
+- 🔧   Building cloud and mobile solutions
 - 🧐   Interested in cloud-native and cross-platform development
 ### Tools and Technologies 
 ---
