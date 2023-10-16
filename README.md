@@ -2,7 +2,7 @@
 ### I'm [Dave McCollough](https://davemccollough.com).
 
 - 🔧   Building cloud and mobile solutions
-- 🧐   Interested in cloud-native and cross-platform development
+- 🧐   Interested in cross/multi-platform development
 ### Tools and Technologies 
 ---
 Tools and technologies that I currently use or have used:
