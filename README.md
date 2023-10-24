@@ -4,7 +4,7 @@
 - 🔧   Building and securing cloud and mobile solutions
 - ☁️    AWS and Azure
 - 📱   React Native 
-- 🤔   Intersted in AI, Data and Blockchain technologies
+- 🤔   Intersted in AI, Data and cloud native technologies
 
 ### Tools and Technologies 
 ---
