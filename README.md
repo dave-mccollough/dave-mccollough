@@ -1,8 +1,11 @@
 ### Hi there!
 ### I'm [Dave McCollough](https://davemccollough.com).
 
-- 🔧   Building cloud and mobile solutions
-- 🧐   Interested in cross/multi-platform development
+- 🔧   Building and securing cloud and mobile solutions
+- ☁️    AWS and Azure
+- 📱   React Native 
+- 🤔   Intersted in AI, Data and Blockchain technologies
+
 ### Tools and Technologies 
 ---
 Tools and technologies that I currently use or have used:
