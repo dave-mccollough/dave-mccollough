@@ -1,10 +1,11 @@
 ### Hi there!
 ### I'm [Dave McCollough](https://davemccollough.com).
 
-- 🔧   Building and securing cloud and mobile solutions
-- ☁️    AWS and Azure
+- 🔧   Building cloud, web and mobile solutions
+- ☁️    Azure
+- 🕸️   .NET
 - 📱   React Native 
-- 🤔   Intersted in AI, Data and cloud native technologies
+- 🤔   Intersted in AI and XR technologies
 
 ### Tools and Technologies 
 ---
