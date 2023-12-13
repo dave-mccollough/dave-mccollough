@@ -5,7 +5,7 @@
 - ☁️    Azure
 - 🕸️   .NET
 - 📱   React Native 
-- 🤔   Intersted in AI and XR technologies
+- 🤔   Intersted in AI, Data and emerging technologies
 
 ### Tools and Technologies 
 ---
