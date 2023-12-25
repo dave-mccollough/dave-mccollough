@@ -5,7 +5,7 @@
 - ☁️    Azure
 - 🕸️   .NET
 - 📱   React Native 
-- 🤔   Intersted in AI, Data and emerging technologies
+- 🤔   Interested in Cybersecurity, Cloud Native technologies, and Rust 
 
 ### Tools and Technologies 
 ---
