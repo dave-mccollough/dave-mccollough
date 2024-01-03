@@ -5,7 +5,7 @@
 - ☁️    Azure
 - 🕸️   .NET
 - 📱   React Native 
-- 🤔   Interested in Cybersecurity, Cloud Native technologies, and Rust 
+- 🤔   Interested in cloud and application security
 
 ### Tools and Technologies 
 ---
