@@ -5,7 +5,7 @@
 - ☁️    Azure
 - 🕸️   .NET
 - 📱   React Native 
-- 🤔   Interested in cloud and application security
+- 🤔   Interested in cloud and cross-platform development
 
 ### Tools and Technologies 
 ---
