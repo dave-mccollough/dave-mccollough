@@ -30,8 +30,8 @@ Tools and technologies that I currently use or have used:
 |--|--|--|
 
 #### Languages and Technologies I'm Learning
-<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://avatars.githubusercontent.com/u/13629408?s=48&v=4" />|<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|
-|--|--|
+<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://avatars.githubusercontent.com/u/13629408?s=48&v=4" />|<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|<img title="Go" alt="Go" width="40px" src="https://avatars.githubusercontent.com/u/4314092?s=48&v=4" />|
+|--|--|--|
 
 
 
