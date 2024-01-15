@@ -26,7 +26,7 @@ Tools and technologies that I currently use or have used:
 
 
 #### Tools
-<img title="Android Studio" alt="Android Studio" width="40px" src="https://user-images.githubusercontent.com/19842520/210182691-bfaea856-5433-4a2d-a39e-e249e959442a.png" />|<img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://camo.githubusercontent.com/8309f96251a086c056e0d7262b7eb66b2da6bdc35ed439b269fd907aa516095a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652d312e737667" />|<img alt="Visual Studio" title="Visual Studio" width="40px" src="https://camo.githubusercontent.com/6ef5b9ab48e506b686160b72ef7b122590d4b0f9866ba2287ca0e9d6959839f3/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d323031332e737667">|
+<img title="Android Studio" alt="Android Studio" width="40px" src="https://user-images.githubusercontent.com/19842520/210182691-bfaea856-5433-4a2d-a39e-e249e959442a.png" />|<img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://camo.githubusercontent.com/2d928ca7ed3e9a328178700c799a05ff052defc39f516d4666ca1f7f328f2ff2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" />|<img alt="Visual Studio" title="Visual Studio" width="40px" src="https://camo.githubusercontent.com/6ef5b9ab48e506b686160b72ef7b122590d4b0f9866ba2287ca0e9d6959839f3/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d323031332e737667">|
 |--|--|--|
 
 #### Languages and Technologies I'm Learning
