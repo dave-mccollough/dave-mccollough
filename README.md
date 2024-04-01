@@ -1,9 +1,9 @@
 ### Hi there!
 ### I'm [Dave McCollough](https://davemccollough.com).
 
-- 🔧   Building solutions with cloud and cross-platform technologies
+- 🔧   Building solutions with cloud and mobile technologies
 - ☁️    Azure
-- 📱   React Native and Kotlin
+- 📱   Android, iOS, and React Native
 
 ### Tools and Technologies 
 ---
