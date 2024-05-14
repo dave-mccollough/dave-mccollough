@@ -1,5 +1,4 @@
-### Hi there!
-### I'm [Dave McCollough](https://davemccollough.com).
+### Hi there, I'm [Dave McCollough](https://davemccollough.com)!
 
 ***Building and securing solutions using Microsoft technologies***
 
