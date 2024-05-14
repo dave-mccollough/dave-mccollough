@@ -1,7 +1,7 @@
 ### Hi there!
 ### I'm [Dave McCollough](https://davemccollough.com).
 
- ### I build and secure solutions using Microsoft technologies
+***Building and securing solutions using Microsoft technologies***
 
 ### Tools and Technologies 
 ---
