@@ -1,9 +1,7 @@
 ### Hi there!
 ### I'm [Dave McCollough](https://davemccollough.com).
 
-- 🔧   Building solutions with cloud and mobile technologies
-- ☁️    Azure
-- 📱   Android, iOS, and React Native
+ ### I build and secure solutions using Microsoft technologies
 
 ### Tools and Technologies 
 ---
