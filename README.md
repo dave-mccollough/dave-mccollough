@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dave McCollough](https://davemccollough.com)
 
-Cloud, Security, and Code
+Cloud, Mobile, and AI
 
 ### Tools and Technologies 
 ---
