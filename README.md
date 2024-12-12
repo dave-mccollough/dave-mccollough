@@ -22,7 +22,7 @@ Tools and technologies that I currently use or have used:
 
 
 #### Tools
-<img title="Android Studio" alt="Android Studio" width="40px" src="https://user-images.githubusercontent.com/19842520/210182691-bfaea856-5433-4a2d-a39e-e249e959442a.png" />|<img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />|<img alt="Visual Studio" title="Visual Studio" width="40px" src="https://camo.githubusercontent.com/6ef5b9ab48e506b686160b72ef7b122590d4b0f9866ba2287ca0e9d6959839f3/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d323031332e737667">|
+<img title="Android Studio" alt="Android Studio" width="40px" src="https://user-images.githubusercontent.com/19842520/210182691-bfaea856-5433-4a2d-a39e-e249e959442a.png" />|<img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />|<img alt="Visual Studio" title="Visual Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1024px-Visual_Studio_Icon_2022.svg.png">|
 |--|--|--|
 
 #### Languages and Technologies I'm Learning
