@@ -26,13 +26,10 @@ Tools and technologies that I currently use or have used:
 |--|--|--|
 
 #### Languages and Technologies I'm Learning
-<img title="Webassembly" alt="Webassembly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1024px-WebAssembly_Logo.svg.png" />|<img title="Rust" alt="Rust" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" />|
+<img title="Webassembly" alt="Webassembly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1024px-WebAssembly_Logo.svg.png" />|<img title="Rust" alt="Rust" width="40px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" />|
 |--|--|
 
 
-
-<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://avatars.githubusercontent.com/u/13629408?s=48&v=4" />|<img title="Rust" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />|<img title="Go" alt="Go" width="40px" src="https://avatars.githubusercontent.com/u/4314092?s=48&v=4" />|
-|--|--|--|
 
 
 
