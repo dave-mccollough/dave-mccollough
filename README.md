@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dave McCollough](https://davemccollough.com)
 
-Cloud Native and Cross-platform Technologies
+AI and Security
 
 ### Tools and Technologies 
 ---
