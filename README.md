@@ -25,9 +25,6 @@ Tools and technologies that I currently use or have used:
 <img title="Android Studio" alt="Android Studio" width="40px" src="https://user-images.githubusercontent.com/19842520/210182691-bfaea856-5433-4a2d-a39e-e249e959442a.png" />|<img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />|<img alt="Visual Studio" title="Visual Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1024px-Visual_Studio_Icon_2022.svg.png">|
 |--|--|--|
 
-#### Languages and Technologies I'm Learning
-<img title="Webassembly" alt="Webassembly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1024px-WebAssembly_Logo.svg.png" />|<img title="Rust" alt="Rust" width="40px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" />|
-|--|--|
 
 
 
