@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dave McCollough](https://davemccollough.com)
 
-Cloud Native and Security Things - Indie app dev
+AI and Security Things - Indie app dev
 
 ### Tools and Technologies 
 ---
