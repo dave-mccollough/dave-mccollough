@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dave McCollough](https://davemccollough.com)
 
-AI and Security Things - Indie app dev
+AI, Security and React Native Development
 
 ### Tools and Technologies 
 ---
