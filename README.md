@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dave McCollough](https://davemccollough.com)
 
-AI, Security and React Native Development
+Cloud, AI and React Native
 
 ### Tools and Technologies 
 ---
