@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dave McCollough](https://davemccollough.com)
 
-Currently working in Cloud and Security
+Currently working in AI, Product and Security 
 
 ### Tools and Technologies 
 ---
